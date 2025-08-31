@@ -11,7 +11,7 @@ const app = server()
 
 app.use(loggerMiddleware)
 app.use(cors({
-  origin: process.env.VITE_FRONTEND_URL,
+  origin: "*",
   methods: ['GET','POST','PUT','PATCH','DELETE','OPTIONS'],
   allowedHeaders: ['Content-Type','Authorization'],
   credentials: true,
@@ -21,6 +21,6 @@ app.use(app.serverStatic("/storage", path.join(process.cwd(), "storage")))
 
 registerRoutes(app)
 
-app.listen(process.env.PORT, () => {
+app.listen(Number.parseInt(process.env.PORT || '5000'), () => {
   console.log(`[neuropilot] running on ${process.env.VITE_BACKEND_URL}`)
 })
