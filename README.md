@@ -52,7 +52,12 @@ The platform provides a modern interface for students, educators, and researcher
 
 ## Demo
 
-![demo](https://github.com/CaviraOSS/neuropilot/raw/refs/heads/main/.github/demo.mp4)
+<video width="100%" controls>
+  <source src=".github/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+> **Note**: If the video doesn't load above, you can [download the demo video directly](.github/demo.mp4)
 
 ---
 
