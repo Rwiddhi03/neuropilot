@@ -182,8 +182,8 @@ See [LICENSE](LICENSE.md) for full terms.
 
 <div align="center">
 
-**Built with ❤️ by the open-source community**
+**Built with ❤️ by CaviraOSS and contributors**
 
-⭐ Star us on [GitHub](https://github.com/caviraOSS/neuropilot) if this project helps you!
+⭐ Star us on [GitHub](https://github.com/CaviraOSS/neuropilot) if this project helps you!
 
 </div>
