@@ -52,6 +52,10 @@ The platform provides a modern interface for students, educators, and researcher
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/98fae4ef-c2b7-4ad2-bfe9-1e0665eb4d71
+
+
 <video width="100%" controls>
   <source src=".github/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
