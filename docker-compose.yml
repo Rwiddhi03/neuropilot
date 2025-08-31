@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+      target: runtime
+    container_name: neuropilot-backend
+    env_file:
+      - ./.env
+    environment:
+      HOST: 0.0.0.0
+      PORT: 5000
+    volumes:
+      - ./storage:/app/storage
+    ports:
+      - "5000:5000"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      target: runtime
+      args:
+        VITE_BACKEND_URL: http://localhost:5000
+        VITE_TIMEOUT: 90000
+    container_name: neuropilot-frontend
+    depends_on:
+      - backend
+    ports:
+      - "5173:5173"

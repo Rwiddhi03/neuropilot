@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+
+# Cache
+.vite
+.cache
+
+# Environment
+.env
+
+# Database
+database.sqlite
+
+# TypeScript build info
+tsconfig.tsbuildinfo
+vite.config.tsbuildinfo

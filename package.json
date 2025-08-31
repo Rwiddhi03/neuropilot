@@ -1,0 +1,38 @@
+{
+  "scripts": {
+    "dev": "nodemon",
+    "build": "tsc -p backend/tsconfig.json",
+    "start": "node backend/dist/src/core/index.js"
+  },
+  "license": "LICENSE.md",
+  "author": "caviraOSS & nullure",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^6.3.0",
+    "@keyv/sqlite": "^4.0.5",
+    "@langchain/anthropic": "^0.3.26",
+    "@langchain/community": "^0.3.49",
+    "@langchain/core": "^0.3.66",
+    "@langchain/google-genai": "^0.2.16",
+    "@langchain/ollama": "^0.2.3",
+    "@langchain/openai": "^0.6.3",
+    "@pdf-lib/fontkit": "^1.1.1",
+    "busboy": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "edge-tts": "^1.0.1",
+    "keyv": "^5.5.0",
+    "langchain": "^0.3.30",
+    "mammoth": "^1.10.0",
+    "marked": "^16.1.1",
+    "path": "^0.12.7",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}

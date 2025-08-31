@@ -1,0 +1,10 @@
+node_modules
+dist
+storage/*
+!storage/.gitkeep
+.env
+.git
+.gitignore
+test
+Dockerfile
+docker-compose.yml
