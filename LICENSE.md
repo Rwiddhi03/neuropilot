@@ -1,4 +1,4 @@
-# NeuroPilot Community License
+# CaviraOSS Community License
 
 **Copyright (c) 2025 Cavira OSS**
 

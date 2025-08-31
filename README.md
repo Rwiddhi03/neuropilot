@@ -52,7 +52,7 @@ The platform provides a modern interface for students, educators, and researcher
 
 ## Demo
 
-![demo](.github/demo.mp4)
+![demo](https://github.com/CaviraOSS/neuropilot/raw/refs/heads/main/.github/demo.mp4)
 
 ---
 
