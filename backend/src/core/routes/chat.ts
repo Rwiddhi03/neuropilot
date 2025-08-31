@@ -86,14 +86,14 @@ export function chatRoutes(app: any) {
         } catch (err: any) {
           const msg = err?.message || 'failed'
           const stack = err?.stack || String(err)
-          console.log('[chat] err inner', { chatId: id, msg, stack })
+          console.error('[chat] err inner', { chatId: id, msg, stack })
           emitToAll(chatSockets.get(id), { type: 'error', error: msg })
         }
       })().catch((e: any) => {
-        console.log('[chat] err runner', e?.message || e)
+        console.error('[chat] err runner', e?.message || e)
       })
     } catch (e: any) {
-      console.log('[chat] err outer', e?.message || e)
+      console.error('[chat] err outer', e?.message || e)
       next(e)
     }
   })
