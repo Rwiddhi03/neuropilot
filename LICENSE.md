@@ -1,6 +1,6 @@
 # NeuroPilot Community License
 
-**Copyright © 2025 CaviraOSS**
+**Copyright (c) 2025 Cavira OSS**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, and run the Software for **personal, educational, or non-commercial research purposes**.
 
@@ -14,7 +14,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 2. **Revenue Sharing Clause**  
    If the Software, or any derivative thereof, is used for Commercial Use:  
-   - A revenue-sharing agreement **must be executed with CaviraOSS prior to any commercial distribution, deployment, or release**.  
+   - A revenue-sharing agreement **must be executed with Cavira OSS prior to any commercial distribution, deployment, or release**.  
    - Any Commercial Use without such an agreement constitutes a **violation and immediate termination of this license**.  
    - Termination does not release the violator from **financial obligations related to unauthorized use**.
 
@@ -22,7 +22,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
    Redistribution of the Software in source or binary form must include this License and retain the above copyright notice.
 
 4. **Attribution**  
-   Any public use, demo, or published derivative of the Software must clearly visible in user-facing materials (UI, docs, or product website) **CaviraOSS** as the original author.
+   Any public use, demo, or published derivative of the Software must clearly visible in user-facing materials (UI, docs, or product website) **Cavira OSS** as the original author.
 
 5. **Termination & Liability**  
    Any violation of these conditions results in an **automatic termination of this license**.  

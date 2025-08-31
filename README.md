@@ -50,6 +50,12 @@ The platform provides a modern interface for students, educators, and researcher
 
 ---
 
+## Demo
+
+![demo](.github/demo.mp4)
+
+---
+
 ## 🛠️ Technology Stack
 
 | Component      | Technology                         |
