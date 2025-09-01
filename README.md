@@ -19,6 +19,22 @@
 
 ---
 
+
+## Demo
+
+
+https://github.com/user-attachments/assets/98fae4ef-c2b7-4ad2-bfe9-1e0665eb4d71
+
+
+<video width="100%" controls>
+  <source src=".github/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+> **Note**: If the video doesn't load above, you can [download the demo video directly](.github/demo.mp4)
+
+---
+
 ## 🚀 Features
 
 NeuroPilot converts study material into **interactive resources** including quizzes, flashcards, structured notes, and podcasts.  
@@ -47,21 +63,6 @@ The platform provides a modern interface for students, educators, and researcher
 - File-based persistent storage for generated content
 - Markdown-based outputs for structured answers and notes
 - Configurable multi-provider setup for LLMs and TTS engines
-
----
-
-## Demo
-
-
-https://github.com/user-attachments/assets/98fae4ef-c2b7-4ad2-bfe9-1e0665eb4d71
-
-
-<video width="100%" controls>
-  <source src=".github/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-> **Note**: If the video doesn't load above, you can [download the demo video directly](.github/demo.mp4)
 
 ---
 
