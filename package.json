@@ -1,11 +1,16 @@
 {
+  "name": "neuropilot",
   "scripts": {
     "dev": "nodemon",
     "build": "tsc -p backend/tsconfig.json",
     "start": "node backend/dist/src/core/index.js"
   },
+  "version": "0.1.0",
   "license": "LICENSE.md",
-  "author": "caviraOSS & nullure",
+  "authors": [
+    "CaviraOSS",
+    "nullure"
+  ],
   "dependencies": {
     "@google-cloud/text-to-speech": "^6.3.0",
     "@keyv/sqlite": "^4.0.5",
